@@ -18,7 +18,8 @@ client.on('ready', () => {
 });
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag} !`);
-          client.user.setActivity("زعلان وتعبان وكسلان",{type: 'WATCHING'});
+          client.user.setActivity("زعلان وتعبان وكسلان",{type: 'LISTENING'});
+               client.user.setStatus("dnd")
   
   });
 
