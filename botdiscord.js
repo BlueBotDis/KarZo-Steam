@@ -18,7 +18,7 @@ client.on('ready', () => {
 });
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag} !`);
-          client.user.setActivity("زعلان وتعبان وكسلان",{type: 'LISTENING'});
+          client.user.setActivity("Admin LG,,🎶5%",{type: 'LISTENING'});
                client.user.setStatus("dnd")
   
   });
