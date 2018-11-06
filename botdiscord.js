@@ -24,3 +24,4 @@ client.on('ready', () => {
   });
 
 client.login(process.env.BOT_TOKEN);
+/stop im not here asshole
